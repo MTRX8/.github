@@ -6,7 +6,7 @@
 />
 
 # Metro Experience
-![Status](https://img.shields.io/badge/status-active-purple?style=plastic)
+![Status](https://img.shields.io/badge/status-Active-purple?style=plastic)
 [![License](https://img.shields.io/github/license/MTRX8/.github?style=plastic&color=purple)](https://raw.githubusercontent.com/MTRX8/.github/main/LICENSE)
 [![Contributing](https://img.shields.io/badge/contributing-Closed-purple?style=plastic)](https://raw.githubusercontent.com/MTRX8/.github/main/CONTRIBUTING.md)
 

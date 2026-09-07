@@ -38,6 +38,11 @@ See the [LICENSE](https://raw.githubusercontent.com/MTRX8/.github/main/LICENSE) 
 
 Individual repositories may contain additional notices, third-party dependencies, or separate licensing terms. Always refer to the license included with the specific project.
 
+## Authors
+
+- SoftYesTI <[@softyesti](https://github.com/softyesti)>
+- João Sereia <[@josereia](https://github.com/josereia)>
+
 ----
 
 <span>

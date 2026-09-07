@@ -11,9 +11,7 @@
 [![License](https://img.shields.io/github/license/MTRX8/.github?style=plastic&color=purple)](https://raw.githubusercontent.com/MTRX8/.github/main/LICENSE)
 [![Contributing](https://img.shields.io/badge/contributing-Closed-purple?style=plastic)](https://raw.githubusercontent.com/MTRX8/.github/main/CONTRIBUTING.md)
 
-MTRX8 is an open-source initiative dedicated to building modern applications inspired by the Metro design language introduced by Microsoft with Windows Phone.
-
-This organization hosts applications, libraries, components, design resources, experiments, and other tools that help bring this design language to modern platforms.
+MTRX8 is an open-source initiative dedicated to building modern applications inspired by the Metro design language introduced by Microsoft with Windows Phone. This organization hosts applications, libraries, components, design resources, experiments, and other tools that help bring this to modern platforms.
 
 ## Contributing
 

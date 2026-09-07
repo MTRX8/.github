@@ -19,7 +19,7 @@ MTRX8 is currently **not accepting external contributions**. See the [CONTRIBUTI
 
 ## License
 
-MTRX8 projects are released under the GNU Affero General Public License v3.0 (AGPL-3.0). See the [LICENSE](https://raw.githubusercontent.com/MTRX8/.github/main/LICENSE) file for the complete license text.
+MTRX8 projects are released under the AGPL-3.0. See the [LICENSE](https://raw.githubusercontent.com/MTRX8/.github/main/LICENSE) file for the complete license text.
 
 ## Authors
 
